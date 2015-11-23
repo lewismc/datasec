@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.graeme</groupId>
+  <artifactId>datasec</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Datasec</name>
+  <description>Datasec data security application</description>
+  
+  <dependencies>
+    <dependency>
+      <groupId>org.eclipse.swt.org.eclipse.swt.cocoa.macosx.x86_64.4.3.swt</groupId>
+      <artifactId>org.eclipse.swt.cocoa.macosx.x86_64</artifactId>
+      <version>4.3</version>
+    </dependency>
+  </dependencies>
+</project>
